@@ -94,6 +94,8 @@ def adding_matz
     }
     
     programmer_hash.merge(matz)
+    
+    puts programmer_hash
 end
 
 def changing_alan
