@@ -84,13 +84,14 @@ def adding_matz
           :languages => ["C"]
         }
      }
+     
   matz = 
     {
         :yukihiro_matsumoto => {
           :known_for => "Ruby",
             :languages => ["LISP", "C"]
-    }
-    
+        }
+    } 
 end
 
 def changing_alan
