@@ -93,7 +93,7 @@ def adding_matz
         }
     }
     
-    programmer_hash.merge(matz)!
+    programmer_hash.merge(matz)
     
     puts programmer_hash
 end
